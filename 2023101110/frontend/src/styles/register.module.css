@@ -1,0 +1,52 @@
+.register {
+    margin-top: 130px;
+    margin-left: 680px;
+    margin-right: 690px;
+    padding: 25px;
+    background-color: rgb(12,167,137);
+    border-radius: 27px;
+    
+    
+}
+
+.click_login {
+    color: rgb(237, 177, 11);
+    cursor: pointer;
+    font-weight: bold;
+    
+    
+}
+
+.text_login {
+    text-align: center;
+    font-size: 25px;
+}
+
+
+.register_button{
+    
+    width: 80%;
+    height: 50px;
+   font-weight: bold;
+   margin-bottom: 13px;
+   margin-top: 13px;
+   cursor: pointer;
+   font-size: 20px;
+   margin-left: 48px;
+   margin-right: 20px;
+   border-radius: 7px;
+   background-color: rgb(4, 77, 146);
+   color: aliceblue;
+   border: none;
+}
+
+.register_button:hover {
+    background-color: rgb(1, 7, 23);
+}
+
+
+.error{
+    color: red;
+    font-size: 0.9em;
+    margin-top: 5px;
+}

@@ -1,0 +1,36 @@
+.heading{
+    
+    text-align: center;
+    margin-top: 60px;
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+.inp {
+    width: 400px;
+    background-color: rgba(252, 219, 113, 0.609);
+    border-color: rgb(247, 4, 4);
+}
+
+
+.sell {
+    margin-left: 150px;
+    padding-left: 10px;
+    padding-right: 10px;
+
+}
+
+.container {
+    border-color: rgb(14, 239, 10);
+    background-color: rgb(139, 187, 245);
+    border-radius: 10px;
+    margin-top: 13px;
+}
+
+
+.details{
+    text-align: center;
+    font-size: large;
+
+}
